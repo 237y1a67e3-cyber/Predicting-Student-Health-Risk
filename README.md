@@ -72,6 +72,15 @@ README.md
 
 ---
 
+## Dataset
+
+Kaggle Competition:
+https://www.kaggle.com/competitions/playground-series-s6e7
+
+## Result
+
+Public Leaderboard Score: **0.84241**
+
 ## Author
 
 V. Jashwanth Reddy# Predicting-Student-Health-Risk
